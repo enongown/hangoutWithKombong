@@ -1,0 +1,77 @@
+Hangout Details:
+Available: Yes
+Day: Sunday
+Time: 12:30
+Preference: A restaurant of choice
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: Yes
+Day: Sunday
+Time: 14:56
+Preference: Chocolates
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: 
+Day: 
+Time: 
+Preference: 
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: 
+Day: 
+Time: 
+Preference: 
+Confirmation: 
+---------------------------
+Hangout Details:
+Available: Yes
+Day: Sunday
+Time: 15:30
+Preference: Chocolates
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: 
+Day: 
+Time: 12:00
+Preference: 
+Confirmation: 
+---------------------------
+Hangout Details:
+Available: 
+Day: 
+Time: 12:00
+Preference: A restaurant of choice
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: Yes
+Day: Saturday
+Time: 12:00
+Preference: A restaurant of choice
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: 
+Day: 
+Time: 12:00
+Preference: 
+Confirmation: 
+---------------------------
+Hangout Details:
+Available: No
+Day: Sunday
+Time: 16:00
+Preference: A restaurant of choice
+Confirmation: Yes
+---------------------------
+Hangout Details:
+Available: Yes
+Day: Sunday
+Time: 08:00
+Preference: Chocolates
+Confirmation: Yes
+---------------------------
